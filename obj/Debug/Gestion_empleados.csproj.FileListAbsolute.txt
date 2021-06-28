@@ -1,0 +1,7 @@
+C:\Users\Leonal\source\repos\Gestion_empleados\bin\Debug\Gestion_empleados.exe.config
+C:\Users\Leonal\source\repos\Gestion_empleados\bin\Debug\Gestion_empleados.exe
+C:\Users\Leonal\source\repos\Gestion_empleados\bin\Debug\Gestion_empleados.pdb
+C:\Users\Leonal\source\repos\Gestion_empleados\obj\Debug\Gestion_empleados.csprojAssemblyReference.cache
+C:\Users\Leonal\source\repos\Gestion_empleados\obj\Debug\Gestion_empleados.csproj.CoreCompileInputs.cache
+C:\Users\Leonal\source\repos\Gestion_empleados\obj\Debug\Gestion_empleados.exe
+C:\Users\Leonal\source\repos\Gestion_empleados\obj\Debug\Gestion_empleados.pdb
